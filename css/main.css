@@ -24,7 +24,7 @@ header{
 footer{
     text-align: center;
     color: #878787;
-    padding-top: 100px;
+        padding: 50px 0px 20px;
     font-size: 0.7rem;
     
 }
@@ -42,6 +42,23 @@ footer{
     width: 90%;
     
     
+}
+
+.funshowcase{
+    color: white;
+    line-height: 1.7;
+    font-size: 1.1rem;
+    
+}
+
+.funshowcase span{
+    font-size: 12px;
+}
+
+.funshowcase-box{
+    background-color: #343434;
+    padding: 20px 0;
+  
 }
 
 .middle-links{text-align: center;
